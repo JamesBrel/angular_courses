@@ -2,6 +2,12 @@
 
 *Changelog created using the [Simple Changelog](https://marketplace.visualstudio.com/items?itemName=tobiaswaelde.vscode-simple-changelog) extension for VS Code.*
 
+## [1.3.0 ==> Addition of Server Memory Api , HttpClientRequest and Add a pokemon component in the pokemon module] - 2024-09-17
+### Added
+- add in-memory-web_api
+- add a component for adding a pokemon
+
+
 ## [1.2.0 ==> Modular addition and restructuring of the pokemonApp project] - 2024-06-21
 ### Added
 - creation of the "page-not-found" page,
